@@ -1,0 +1,17 @@
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Newtonsoft.Json.dll
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Aplicaciones\FileExplorer\FileExplorer\bin\Debug\Newtonsoft.Json.xml
+C:\Aplicaciones\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojAssemblyReference.cache
+C:\Aplicaciones\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CopyComplete
+C:\Aplicaciones\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Aplicaciones\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
