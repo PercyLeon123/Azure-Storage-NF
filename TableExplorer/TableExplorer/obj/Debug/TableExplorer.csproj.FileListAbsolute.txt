@@ -21,3 +21,26 @@ C:\Aplicaciones\TableExplorer\TableExplorer\obj\Debug\TableExplorer.csproj.CoreC
 C:\Aplicaciones\TableExplorer\TableExplorer\obj\Debug\TableExplorer.csproj.CopyComplete
 C:\Aplicaciones\TableExplorer\TableExplorer\obj\Debug\TableExplorer.exe
 C:\Aplicaciones\TableExplorer\TableExplorer\obj\Debug\TableExplorer.pdb
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\TableExplorer.exe.config
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\TableExplorer.exe
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\TableExplorer.pdb
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Newtonsoft.Json.dll
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\System.Security.AccessControl.dll
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\System.Security.Permissions.dll
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\Newtonsoft.Json.xml
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\System.Security.AccessControl.xml
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\System.Security.Permissions.xml
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\obj\Debug\TableExplorer.csprojAssemblyReference.cache
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\obj\Debug\TableExplorer.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\obj\Debug\TableExplorer.csproj.CopyComplete
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\obj\Debug\TableExplorer.exe
+C:\Aplicaciones\net Framework\AzureExplorer\TableExplorer\TableExplorer\obj\Debug\TableExplorer.pdb
